@@ -1,0 +1,9 @@
+['builtins',
+ 'builtins',
+ 'os',
+ 'sys',
+ 'plotly.graph_objects',
+ 'numpy',
+ 'pandas',
+ 'plotly.express',
+ 'types']
